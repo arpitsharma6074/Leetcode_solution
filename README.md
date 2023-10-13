@@ -1,4 +1,3 @@
 # hello
-my name is boss
-ok byew
-jnsicffbwifbwiolnf
+This for leetcode solution.
+You are welcome to optimise the solution.
