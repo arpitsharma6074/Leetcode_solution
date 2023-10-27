@@ -17,7 +17,7 @@ public:
 
         }
     private:
-        int findmatch(int i,int j,string& s){
+        int findmatch(int i,int j, string& s){
             int pending=0;
             int k=i+1;
             while(k<=j){
